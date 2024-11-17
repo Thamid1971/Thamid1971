@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves creating and exploring new tech. Here, you'll find a variety of projects that I've worked on, including web applications, tools, and other interesting experiments.
 
 ## 🚀 About Me
-- 🔭 Currently working on my portfolio
+- 🔭 Currently working to improve my skills 
 - 🌱 Learning and improving skills in JavaScript, DataStructures and Algorithm 
 - 💡 Interested in machine learning,backend development 
 - 💬 Ask me about anything related to coding, especially JavaScript and React!
